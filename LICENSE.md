@@ -1,4 +1,4 @@
-
+Hide.me high-speed Plugin: multi-protocol-support & smart-DNS offers the most advanced Hide.me plugin, with multi-protocol-support and smart-DNS. Ideal for users who value privacy
 
 
 
